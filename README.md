@@ -1,9 +1,4 @@
-![VIM](https://dnp4pehkvoo6n.cloudfront.net/43c5af597bd5c1a64eb1829f011c208f/as/Ultimate%20Vimrc.svg)
-
-# The Ultimate vimrc
-
-Over the last 10 years, I have used and tweaked Vim. This configuration is the ultimate vimrc (or at least my version of it).
-
+My customised .vimrc for quick setup
 There are two versions:
 
 * **The Basic**: If you want something small just copy [basic.vim](https://github.com/amix/vimrc/blob/master/vimrcs/basic.vim) into your ~/.vimrc and you will have a good basic setup
@@ -56,23 +51,6 @@ Just do a git rebase!
 
     cd ~/.vim_runtime
     git pull --rebase
-
-
-## Some screenshots
-
-Colors when editing a Python file:
-
-![Screenshot 1](https://dnp4pehkvoo6n.cloudfront.net/07583008e4da885801657e8781777844/as/Python%20editing.png)
-
-Opening recently opened files with the [mru.vim](https://github.com/vim-scripts/mru.vim) plugin:
-
-![Screenshot 2](https://dnp4pehkvoo6n.cloudfront.net/1d49a88f9bd5d013c025bb1e1272a7d8/as/MRU%20plugin.png)
-
-[NERD Tree](https://github.com/scrooloose/nerdtree) plugin in a terminal window:
-![Screenshot 3](https://dnp4pehkvoo6n.cloudfront.net/ae719203166585d64728f28398f4b1b7/as/Terminal%20usage.png)
-
-Distraction free mode using [goyo.vim](https://github.com/junegunn/goyo.vim) and [vim-zenroom2](https://github.com/amix/vim-zenroom2):
-![Screenshot 4](https://dnp4pehkvoo6n.cloudfront.net/f0dcc4c9739148c56cbf8285a910ac41/as/Zen%20mode.png)
 
 
 ## Included Plugins
